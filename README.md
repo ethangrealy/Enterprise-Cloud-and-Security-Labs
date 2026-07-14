@@ -1,11 +1,11 @@
-# Enterprise IT and Security Labs
+# Enterprise IT and Cloud Labs
 
 A practical portfolio of hands-on IT administration projects focused on Microsoft enterprise environments.
 
 This repository currently covers:
 
 - Windows Server administration (e.g., Active Directory, Group Policy, DNS/DHCP, etc.)
-- Microsoft 365 and Microsoft Entra ID administration
+- Microsoft 365 and Microsoft Entra administration
 
 The projects are designed to demonstrate practical support, identity, access, and infrastructure administration skills through concise documentation and screenshots.
 
@@ -21,11 +21,10 @@ Hands-on Windows Server and Active Directory administration projects, including:
 - NTFS permissions and file shares
 - Windows LAPS
 - DNS and DHCP
-- PowerShell administration
 
 [View Windows Server projects](./Windows-Server/)
 
-### Microsoft 365 and Entra User Management
+### Microsoft 365 and Entra Tenant Management
 
 Hands-on Microsoft 365 and Entra administration projects, including:
 
@@ -38,7 +37,7 @@ Hands-on Microsoft 365 and Entra administration projects, including:
 - Sign-in log analysis
 - Authentication troubleshooting
 
-[View Microsoft 365 and Entra projects](./M365-and-Entra/)
+[View Microsoft 365 and Entra projects](./M365-and-Entra/Entra-Tenant-Management/)
 
 ### Exchange Online
 
@@ -54,7 +53,18 @@ Brief experiences of Exchange Online use-cases and scenarios, including:
 - Adding aliases
 - Running message traces
 
-[View Exchange Online projects](./Exchange-Online/)
+[View Exchange Online projects](./M365-and-Entra/Exchange-Online/)
+
+### SharePoint Management
+
+Brief experiences of Exchange Online use-cases and scenarios, including:
+
+- Understanding SharePoint permission groups
+- Configuring permission inheritance
+- Diagnosing restive access and ensuring actual permissions
+- Understanding libraries, folders and synced content
+
+[View SharePoint Management projects](./M365-and-Entra/SharePoint-Management/)
 
 ## Purpose
 
