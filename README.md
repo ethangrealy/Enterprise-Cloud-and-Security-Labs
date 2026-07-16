@@ -6,6 +6,7 @@ This repository currently covers:
 
 - Windows Server administration (e.g., Active Directory, Group Policy, DNS/DHCP, etc.)
 - Microsoft 365 and Microsoft Entra administration
+- Windows Troubleshooting (UEFI configuration, WinRE and Startup Repair, BSOD, etc.)
 
 The projects are designed to demonstrate practical support, identity, access, and infrastructure administration skills through concise documentation and screenshots.
 
@@ -23,6 +24,17 @@ Hands-on Windows Server and Active Directory administration projects, including:
 - DNS and DHCP
 
 [View Windows Server projects](./Windows-Server/)
+
+### Windows Troubleshooting
+
+Specific Windows Troubleshooting diagnosis and resolution projects, including:
+
+- No bootable device through UEFI configuration
+- WinRE and Startup Repair
+- Black screen after sign-in resolution
+- Genuine BSOD and dump investigation
+
+[View Windows Troubleshooting projects](./Windows-Troubleshooting/)
 
 ### Microsoft 365 and Entra Tenant Management
 
@@ -86,6 +98,5 @@ This repository documents practical lab work completed to build and demonstrate 
 - Microsoft 365 administration
 - Identity and access management
 - Systems administration
-- Security operations
 
 All environments use fictional users and lab data. Sensitive information is redacted before publication.
